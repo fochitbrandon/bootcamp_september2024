@@ -1,0 +1,44 @@
+div{
+  display:grid;
+  grid-template-columns: 300px 100px ;
+  grid-template-rows: auto;
+box-sizing: border-box;
+width: 1000px;
+height: 500px;
+margin: auto;
+
+background-color: rgb(207, 226, 226);
+border: solid black;
+
+
+
+}
+.box{
+  
+  width: 250px;
+  height: 100px;
+  border: solid blue;
+  background: rgb(87, 87, 211); 
+}
+.box p{
+  width: 250px;
+  height: 100px;
+}
+.box1{
+  width: 600px;
+  height: 100px;
+  border: solid blue;
+  background: blue;
+}
+
+.box2{
+  width: 880px;
+  height: 100px;
+  border: solid blue;
+  background: blue;
+  margin-left: 25px;
+}
+
+.box2 p{
+  width: 880px;
+}

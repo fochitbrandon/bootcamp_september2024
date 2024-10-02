@@ -1,0 +1,13 @@
+nav{
+    background-color: rgb(57, 153, 177);
+    align-content: center;
+}
+section{
+    flex: center;
+    align-content: center;
+   padding-top: 25px;
+   padding-left: 100px;
+}
+.card{
+    padding: 50px;
+}
